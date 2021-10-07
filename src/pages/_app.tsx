@@ -17,3 +17,12 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
+
+/*
+yarn dev - executa a page como modo dev
+yarn start - executa como cliente
+
+yarn server- inicia o servidor de requisições do back-end
+
+
+*/

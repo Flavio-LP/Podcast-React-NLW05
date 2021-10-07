@@ -8,6 +8,8 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+
+----yarn server ----- this startup needs to be enabled to handle back-end
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
