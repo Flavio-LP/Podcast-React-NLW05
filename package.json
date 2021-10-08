@@ -7,9 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "server":"json-server server.json -w -d 750 -p 3333"
+    "server": "json-server server.json -w -d 750 -p 3333"
   },
   "dependencies": {
+    "axios": "^0.22.0",
     "date-fns": "^2.23.0",
     "import": "0.0.6",
     "next": "11.1.0",
